@@ -1,4 +1,4 @@
-package com.assignment.java;
+package com.WeekOne.java;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

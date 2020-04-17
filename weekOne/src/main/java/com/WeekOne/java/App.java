@@ -1,9 +1,5 @@
-package com.assignment.java;
+package com.WeekOne.java;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
